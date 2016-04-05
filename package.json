@@ -1,0 +1,28 @@
+{
+  "name": "slug-creator",
+  "version": "1.0.2",
+  "description": "create slug from phrase",
+  "main": "src/class/creator.js",
+  "scripts": {
+    "test": "multi='spec=- mocha-junit-reporter=-' MOCHA_FILE=./unit-tests.xml mocha -R mocha-multi \"src/**/tests/*.js\" --require 'babel-register'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@stash.allegrogroup.com/altn/slug-creator.git"
+  },
+  "keywords": [
+    "slug",
+    "creator"
+  ],
+  "author": "piotr.fryga@allegrogroup.com",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^2.4.5",
+    "mocha-junit-reporter": "^1.0.0",
+    "mocha-multi": "^0.7.0",
+    "should": "^7.0.0"
+  },
+  "devDependencies": {
+    "babel-register": "^6.7.2"
+  }
+}
