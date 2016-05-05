@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites name="Mocha Tests" time="0.003" tests="1" failures="0">
-  <testsuite name="Root Suite" timestamp="2016-04-05T08:36:33" tests="0" failures="0" time="0">
+  <testsuite name="Root Suite" timestamp="2016-05-05T11:58:05" tests="0" failures="0" time="0">
   </testsuite>
-  <testsuite name="slug creator" timestamp="2016-04-05T08:36:33" tests="1" failures="0" time="0.003">
+  <testsuite name="slug creator" timestamp="2016-05-05T11:58:05" tests="1" failures="0" time="0.003">
     <testcase name="Root Suite slug creator should return correct slug" time="0.003" classname="should return correct slug">
     </testcase>
   </testsuite>
