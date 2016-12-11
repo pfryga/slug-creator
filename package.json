@@ -16,13 +16,11 @@
   ],
   "author": "piotr.fryga@allegrogroup.com",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
+    "babel-register": "^6.7.2",
     "mocha": "^2.4.5",
     "mocha-junit-reporter": "^1.0.0",
     "mocha-multi": "^0.7.0",
     "should": "^7.0.0"
-  },
-  "devDependencies": {
-    "babel-register": "^6.7.2"
   }
 }
