@@ -1,6 +1,6 @@
 {
   "name": "slug-creator",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "create slug from phrase",
   "main": "src/class/creator.js",
   "scripts": {
